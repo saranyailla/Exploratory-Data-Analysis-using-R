@@ -1,0 +1,50 @@
+state,Freq,lev,levels,labels
+alabama,16,Minimal,1,Minimal
+arizona,23,Minimal,1,Minimal
+arkansas,30,Minimal,1,Minimal
+california,127,High,5,Low
+colorado,59,Minimal,2,Minimal
+connecticut,35,Minimal,2,Minimal
+delaware,14,Minimal,1,Minimal
+district of columbia,106,Moderate,4,Low
+florida,78,Moderate,3,Minimal
+georgia,135,High,5,Low
+idaho,8,Low,1,Minimal
+illinois,101,Moderate,4,Low
+indiana,53,Minimal,2,Minimal
+iowa,40,Minimal,2,Minimal
+kansas,302,High,10,High
+kentucky,67,Minimal,3,Minimal
+louisiana,12,Minimal,1,Minimal
+maine,14,Minimal,1,Minimal
+maryland,87,Moderate,3,Minimal
+massachusetts,99,Moderate,4,Low
+michigan,45,Minimal,2,Minimal
+minnesota,57,Minimal,2,Minimal
+mississippi,7,Low,1,Minimal
+missouri,65,Minimal,3,Minimal
+montana,2,Low,1,Minimal
+nebraska,13,Minimal,1,Minimal
+nevada,11,Minimal,1,Minimal
+new hampshire,4,Low,1,Minimal
+new jersey,68,Minimal,3,Minimal
+new mexico,11,Minimal,1,Minimal
+new york,90,Moderate,3,Minimal
+north carolina,93,Moderate,4,Low
+north dakota,1,Low,1,Minimal
+ohio,140,High,5,Low
+oklahoma,41,Minimal,2,Minimal
+oregon,30,Minimal,1,Minimal
+pennsylvania,124,High,5,Low
+rhode island,10,Minimal,1,Minimal
+south carolina,22,Minimal,1,Minimal
+south dakota,7,Low,1,Minimal
+tennessee,62,Minimal,3,Minimal
+texas,108,Moderate,4,Low
+utah,23,Minimal,1,Minimal
+vermont,6,Low,1,Minimal
+virginia,58,Minimal,2,Minimal
+washington,27,Minimal,1,Minimal
+west virginia,10,Minimal,1,Minimal
+wisconsin,55,Minimal,2,Minimal
+wyoming,3,Low,1,Minimal
